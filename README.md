@@ -1,7 +1,9 @@
 # 8085Simulator
-Download Jubin's 8085 Simulator
-This Software is Shared Under OpenSource GNU License
-Original Repo Link : https://github.com/8085simulator/8085simulator.github.io
+--> Download Jubin's 8085 Simulator
+
+(This Software is Shared Under OpenSource GNU License)
+
+--> Original Repo Link : https://github.com/8085simulator/8085simulator.github.io
 
 
 The Download Link was not working, so used link from other source.
